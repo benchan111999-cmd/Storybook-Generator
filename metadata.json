@@ -1,5 +1,5 @@
 {
-  "name": "Storyweaver: AI Storybook Creator",
-  "description": "Generate beautiful storybooks with AI-generated dialogue and illustrations. Upload character references and refine images with a built-in chatbot.",
+  "name": "TaleWeaver: Your Personalised Storybook Creator",
+  "description": "Generate beautiful storybooks with AI-generated dialogue and illustrations. Support for English and Traditional Chinese.",
   "requestFramePermissions": []
 }
